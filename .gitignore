@@ -23,7 +23,7 @@
 *.hex
 
 # Binary directories
-bin/*
+bin/
 
 # Emacs backups
 *.*~
