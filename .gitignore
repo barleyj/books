@@ -26,4 +26,8 @@
 bin/
 
 # Emacs backups
+<<<<<<< HEAD
 *.*~
+=======
+*~
+>>>>>>> the-c-programming-language-chapter-1
