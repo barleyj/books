@@ -1,5 +1,5 @@
 Feature: As a user
-	 I want to see fahrenheit converted to celsius
+	 I want to see celsius converted to fahrenheit
 
 	 Scenario: Celsius to Fahrenheit table
 	 	   When I successfully run `temp_conversion`
